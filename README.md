@@ -1,1 +1,5 @@
-# Super_shop_management_system
+Username: admin; role: admin
+password: 123456
+
+Username: staff; role: staff
+password: 123
